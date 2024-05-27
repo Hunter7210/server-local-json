@@ -1,0 +1,50 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Maria",
+      "email": "maria@exemplo.com"
+    },
+    {
+      "id": "2",
+      "nome": "João",
+      "email": "joao@exemplo.com"
+    },
+    {
+      "id": "d3bc",
+      "titulo": "12",
+      "autor": "123",
+      "alugado": false
+    },
+    {
+      "id": "ad93",
+      "titulo": "123",
+      "autor": "123",
+      "alugado": false
+    },
+    {
+      "id": "bfbf",
+      "titulo": "123",
+      "autor": "123",
+      "alugado": true
+    },
+    {
+      "id": "165a",
+      "titulo": "O codigo da vinci",
+      "autor": "Dan Brown",
+      "alugado": true
+    },
+    {
+      "id": "a5e2",
+      "titulo": "Crepusculo",
+      "autor": "BATMAN",
+      "alugado": false
+    },
+    {
+      "id": "442b",
+      "titulo": "O filho de netuno",
+      "autor": "NEYMAR",
+      "alugado": true
+    }
+  ]
+}
